@@ -11,4 +11,4 @@ Implement a Java RMI (Remote Method Invocation) library, using Java dynamic prox
 ## project 2 (not completed yet)
 This project implements a simple distributed filesystem using the RMI library. Files will be hosted remotely on one or more storage servers. Separately, a single naming server will index the files, indicating which one is stored where. When a client wishes to access a file, it first contacts the naming server to obtain a stub for the storage server hosting it. After that, it communicates directly with the storage server to complete the operation.
 
-## project 3 (not started yet_
+## project 3 (not started yet)
