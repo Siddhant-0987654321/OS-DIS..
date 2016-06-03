@@ -4,9 +4,6 @@ This is my projects of CSE291e (Distributed System) at UCSD. I will push my proj
 
 Course website: [CSE 291E: Distributed Systems](http://cseweb.ucsd.edu/classes/sp16/cse291-e/)
 
-## hw1 and hw2
-hw1 and hw2 are some homework of this course.
-
 ## project 0 - Configure a Docker cluster
 Pracitce using Docker. Create docker containers as storage, server and client sharing a volume, and pingpong C programs testing the virtual machines' connectioin.
 
@@ -20,3 +17,9 @@ This project implements a simple distributed filesystem using the RMI library. F
 Use Docker to deploy a Hadoop cluster with one master and four slaves. Run a Hadoop Java program BigramCount (similar to classic WordCount) on the Hadoop cluster.
 
 I will upload the code of this project after the submission ddl has passed.
+
+## hw1
+Homework 1
+
+## hw2
+Homework 2
