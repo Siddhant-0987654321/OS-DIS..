@@ -1,0 +1,7 @@
+*.class
+*.jar
+*.swp
+*.zip
+.vscode/
+javadoc/
+javadoc-all/

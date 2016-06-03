@@ -1,0 +1,7 @@
+[user]
+	name = kaiwensun
+	email = skw_kevin@126.com
+[color]
+	ui = true
+[core]
+	editor = vim
