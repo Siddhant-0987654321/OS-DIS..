@@ -16,8 +16,6 @@ This project implements a simple distributed filesystem using the RMI library. F
 ## project 3 - Configure a Hadoop cluster
 Use Docker to deploy a Hadoop cluster with one master and four slaves. Run a Hadoop Java program BigramCount (similar to classic WordCount) on the Hadoop cluster.
 
-I will upload the code of this project after the submission ddl has passed.
-
 ## hw1
 Homework 1
 
