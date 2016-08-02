@@ -1,6 +1,6 @@
 # UCSD CSE291e projects
 
-This is my projects of CSE291e (Distributed System) at UCSD. I will push my project after the due.
+This is my projects of CSE291e (Distributed System) at UCSD.
 
 Course website: [CSE 291E: Distributed Systems](http://cseweb.ucsd.edu/classes/sp16/cse291-e/)
 
