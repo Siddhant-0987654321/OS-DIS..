@@ -1,3 +1,5 @@
+# DO NOT CHEAT! IF THIS REPO HELPS YOU WITH YOUR COURSE WORK, YOU ARE OBLIGED TO LET YOUR GRADER KNOW!
+
 # UCSD CSE291e projects
 
 This is my projects of CSE291e (Distributed System) at UCSD.
