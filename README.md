@@ -1,10 +1,8 @@
-# DO NOT CHEAT! IF THIS REPO HELPS YOU WITH YOUR COURSE WORK, YOU ARE OBLIGED TO LET YOUR GRADER KNOW!
 
-# UCSD CSE291e projects
 
-This is my projects of CSE291e (Distributed System) at UCSD.
+This is my projects of  (Distributed System) at UCSD.
 
-Course website: [CSE 291E: Distributed Systems](http://cseweb.ucsd.edu/classes/sp16/cse291-e/)
+
 
 ## project 0 - Configure a Docker cluster
 Pracitce using Docker. Create docker containers as storage, server and client sharing a volume, and pingpong C programs testing the virtual machines' connectioin.
